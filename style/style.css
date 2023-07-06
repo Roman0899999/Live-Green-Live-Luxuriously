@@ -1,8 +1,8 @@
 body{
     background-image: url(../img/710522c37840cfe272437ad775fa7572.png);
     width: 1440px;
-height: 645px;
-flex-shrink: 0;
+    height: 645px;
+    
 background-repeat: no-repeat;
 }
 header{
@@ -12,12 +12,27 @@ top: 32px;
 left: 494px;
 }
 nav{
-margin: 30px auto 0 auto;
-text-align: center;
-
+    width: 452px;
+    height: 20px;
+    top: 32px;
+    left: 494px;
 }
 nav a{
     color: white;
     margin-left: 50px;
     text-decoration: none;
 }
+.heads_logo{
+    width: 1500px;
+    height: 1000px;
+    margin: 200px auto 0 auto;
+    padding-top: 200px;
+    text-align: center;
+    color: antiquewhite;
+}
+.poisk{
+    width: 875px;
+height: 62px;
+flex-shrink: 0;
+}
+
