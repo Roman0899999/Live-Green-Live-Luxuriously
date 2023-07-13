@@ -35,4 +35,23 @@ nav a{
 height: 62px;
 flex-shrink: 0;
 }
+.who_img{
+    width: 604px;
+height: 384px;
+top: 72px;
+left: 72px;
+padding: 25px 0px 22.372589111328125px 0px;
 
+
+
+
+}
+.imm{
+    width: 638px;
+height: 384px;
+top: 72px;
+left: 730px;
+padding: 763px 0px 0px 0px;
+border-radius: 20px;
+
+}
